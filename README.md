@@ -2,7 +2,8 @@
 
 ## 📌 Project Overview
 This project visualizes and analyzes renewable energy trends across Canadian provinces to support strategic planning and investment in the clean energy sector. It simulates how a company or policymaker might use data to inform expansion decisions and highlight growth areas in solar, wind, and hydro energy.
-
+## 📸 Dashboard Preview
+![Energy Trend Dashboard](dashboard/dashboard.png)
 ## 📊 Problem Statement
 The transition to clean energy requires clear visibility into where infrastructure is growing and where investment yields the highest returns. This dashboard provides:
 - Provincial comparisons of installed capacity over time
@@ -39,8 +40,7 @@ sustainable-energy-trend-dashboard/
 - Alberta’s wind capacity has grown by over 30% in the last two years.
 - Forecasting suggests a **25% solar increase** by 2030 in key provinces.
 
-## 📸 Dashboard Preview
-![Energy Trend Dashboard](dashboard/dashboard_screenshot.png)
+
 
 ## 📣 Audience
 - Clean energy consultants
