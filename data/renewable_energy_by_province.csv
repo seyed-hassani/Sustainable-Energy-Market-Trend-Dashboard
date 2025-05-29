@@ -1,0 +1,91 @@
+Province,Energy_Type,Year,Installed_Capacity_MW
+Ontario,Solar,2018,1360.0
+Ontario,Solar,2019,1418.26
+Ontario,Solar,2020,1479.02
+Ontario,Solar,2021,1542.38
+Ontario,Solar,2022,1608.46
+Ontario,Solar,2023,1677.37
+Ontario,Wind,2018,4272.0
+Ontario,Wind,2019,4578.64
+Ontario,Wind,2020,4907.29
+Ontario,Wind,2021,5259.54
+Ontario,Wind,2022,5637.07
+Ontario,Wind,2023,6041.69
+Ontario,Hydro,2018,966.0
+Ontario,Hydro,2019,1001.74
+Ontario,Hydro,2020,1038.8
+Ontario,Hydro,2021,1077.24
+Ontario,Hydro,2022,1117.09
+Ontario,Hydro,2023,1158.42
+Quebec,Solar,2018,3944.0
+Quebec,Solar,2019,4228.28
+Quebec,Solar,2020,4533.04
+Quebec,Solar,2021,4859.77
+Quebec,Solar,2022,5210.06
+Quebec,Solar,2023,5585.59
+Quebec,Wind,2018,630.0
+Quebec,Wind,2019,649.81
+Quebec,Wind,2020,670.24
+Quebec,Wind,2021,691.31
+Quebec,Wind,2022,713.05
+Quebec,Wind,2023,735.47
+Quebec,Hydro,2018,1269.0
+Quebec,Hydro,2019,1371.21
+Quebec,Hydro,2020,1481.64
+Quebec,Hydro,2021,1600.97
+Quebec,Hydro,2022,1729.92
+Quebec,Hydro,2023,1869.24
+British Columbia,Solar,2018,2933.0
+British Columbia,Solar,2019,3058.32
+British Columbia,Solar,2020,3189.0
+British Columbia,Solar,2021,3325.25
+British Columbia,Solar,2022,3467.33
+British Columbia,Solar,2023,3615.49
+British Columbia,Wind,2018,1684.0
+British Columbia,Wind,2019,1770.38
+British Columbia,Wind,2020,1861.2
+British Columbia,Wind,2021,1956.67
+British Columbia,Wind,2022,2057.04
+British Columbia,Wind,2023,2162.56
+British Columbia,Hydro,2018,4617.0
+British Columbia,Hydro,2019,4757.79
+British Columbia,Hydro,2020,4902.88
+British Columbia,Hydro,2021,5052.39
+British Columbia,Hydro,2022,5206.46
+British Columbia,Hydro,2023,5365.23
+Alberta,Solar,2018,3404.0
+Alberta,Solar,2019,3575.51
+Alberta,Solar,2020,3755.67
+Alberta,Solar,2021,3944.9
+Alberta,Solar,2022,4143.67
+Alberta,Solar,2023,4352.45
+Alberta,Wind,2018,1582.0
+Alberta,Wind,2019,1673.74
+Alberta,Wind,2020,1770.8
+Alberta,Wind,2021,1873.49
+Alberta,Wind,2022,1982.13
+Alberta,Wind,2023,2097.08
+Alberta,Hydro,2018,2547.0
+Alberta,Hydro,2019,2675.5
+Alberta,Hydro,2020,2810.48
+Alberta,Hydro,2021,2952.26
+Alberta,Hydro,2022,3101.21
+Alberta,Hydro,2023,3257.66
+Manitoba,Solar,2018,1475.0
+Manitoba,Solar,2019,1543.28
+Manitoba,Solar,2020,1614.73
+Manitoba,Solar,2021,1689.48
+Manitoba,Solar,2022,1767.69
+Manitoba,Solar,2023,1849.53
+Manitoba,Wind,2018,3234.0
+Manitoba,Wind,2019,3471.01
+Manitoba,Wind,2020,3725.39
+Manitoba,Wind,2021,3998.41
+Manitoba,Wind,2022,4291.44
+Manitoba,Wind,2023,4605.95
+Manitoba,Hydro,2018,2399.0
+Manitoba,Hydro,2019,2557.33
+Manitoba,Hydro,2020,2726.1
+Manitoba,Hydro,2021,2906.01
+Manitoba,Hydro,2022,3097.8
+Manitoba,Hydro,2023,3302.24
